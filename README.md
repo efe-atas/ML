@@ -1,3 +1,2 @@
 # ML
-Machine Learning 
-This is my ML exercise.
+This is my Machine Learning exercise.
